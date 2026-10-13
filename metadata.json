@@ -1,0 +1,6 @@
+{
+  "name": "ISFADUR - Bangladesh Marketplace",
+  "description": "Lightweight, modern, mobile-friendly marketplace for Bangladesh. Discover. Connect. Trade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
